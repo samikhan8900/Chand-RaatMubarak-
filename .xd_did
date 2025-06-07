@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="ur">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chand Raat Mubarak!</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu:wght@400;700&family=Poppins:wght@300;400&display=swap" rel="stylesheet">
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            font-family: 'Poppins', sans-serif;
+            overflow-x: hidden;
+        }
+        .container {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+            background: linear-gradient(rgba(10, 0, 30, 0.8), rgba(20, 0, 40, 0.9)), 
+                        url('https://images.unsplash.com/photo-1532606822553-c3b88934551c?q=80&w=2070') no-repeat center center;
+            background-size: cover;
+            color: white;
+            text-align: center;
+            position: relative;
+        }
+        .card {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 30px 40px;
+            border-radius: 20px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+            max-width: 600px;
+            animation: floatAnimation 6s ease-in-out infinite;
+        }
+        @keyframes floatAnimation {
+            0% { transform: translateY(0px); }
+            50% { transform: translateY(-15px); }
+            100% { transform: translateY(0px); }
+        }
+        h1 {
+            font-family: 'Noto Nastaliq Urdu', serif;
+            font-size: 4rem;
+            font-weight: 700;
+            color: #FFD700;
+            margin: 0;
+            text-shadow: 2px 2px 8px rgba(0,0,0,0.7);
+        }
+        p {
+            font-size: 1.2rem;
+            font-weight: 300;
+            line-height: 1.6;
+            margin-top: 20px;
+        }
+        .stars {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: 
+                radial-gradient(1px 1px at 20% 30%, white, transparent),
+                radial-gradient(1px 1px at 80% 10%, white, transparent),
+                radial-gradient(1px 1px at 50% 50%, white, transparent),
+                radial-gradient(2px 2px at 30% 70%, white, transparent),
+                radial-gradient(2px 2px at 90% 60%, white, transparent),
+                radial-gradient(1px 1px at 10% 90%, white, transparent);
+            background-repeat: repeat;
+            background-size: 300px 300px;
+            animation: twinkle 5s linear infinite;
+        }
+        @keyframes twinkle {
+            from { transform: translateX(0); }
+            to { transform: translateX(-300px); }
+        }
+        .ad-placeholder {
+            margin: 25px auto;
+            width: 320px;
+            min-height: 100px;
+            background: rgba(0, 0, 0, 0.5);
+            border: 2px dashed #FFD700;
+            border-radius: 10px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            color: #ccc;
+            padding: 10px;
+        }
+        .ad-placeholder p {
+            font-size: 0.9rem;
+            margin: 5px 0 0 0;
+        }
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 3rem;
+            }
+            p {
+                font-size: 1rem;
+            }
+            .card {
+                padding: 25px 20px;
+                width: 90%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="stars"></div>
+        <script type="text/javascript"> 	atOptions = { 		'key' : '4ec816f1cb94f800912ad073124075a7', 		'format' : 'iframe', 		'height' : 60, 		'width' : 468, 		'params' : {} 	}; </script> <script type="text/javascript" src="//www.highperformanceformat.com/4ec816f1cb94f800912ad073124075a7/invoke.js"></script>
+        <script type="text/javascript"> 	atOptions = { 		'key' : '4ec816f1cb94f800912ad073124075a7', 		'format' : 'iframe', 		'height' : 60, 		'width' : 468, 		'params' : {} 	}; </script> <script type="text/javascript" src="//www.highperformanceformat.com/4ec816f1cb94f800912ad073124075a7/invoke.js"></script>
+        <script type="text/javascript"> 	atOptions = { 		'key' : '4ec816f1cb94f800912ad073124075a7', 		'format' : 'iframe', 		'height' : 60, 		'width' : 468, 		'params' : {} 	}; </script> <script type="text/javascript" src="//www.highperformanceformat.com/4ec816f1cb94f800912ad073124075a7/invoke.js"></script>
+        <script type="text/javascript"> 	atOptions = { 		'key' : '4ec816f1cb94f800912ad073124075a7', 		'format' : 'iframe', 		'height' : 60, 		'width' : 468, 		'params' : {} 	}; </script> <script type="text/javascript" src="//www.highperformanceformat.com/4ec816f1cb94f800912ad073124075a7/invoke.js"></script>
+        <div class="card">
+            <h1>چاند رات مبارک</h1>
+            <p>
+                اس خوبصورت اور بابرکت رات کے موقع پر، اللہ آپکو اور آپکے اہل خانہ کو ڈھیر ساری خوشیاں، صحت اور کامیابی عطا فرمائے۔ عید کا چاند مبارک ہو!
+            </p>
+        </div>
+        <div class="ad-placeholder">
+        <script type="text/javascript"> 	atOptions = { 		'key' : '4ec816f1cb94f800912ad073124075a7', 		'format' : 'iframe', 		'height' : 60, 		'width' : 468, 		'params' : {} 	}; </script> <script type="text/javascript" src="//www.highperformanceformat.com/4ec816f1cb94f800912ad073124075a7/invoke.js"></script>
+        <script type="text/javascript"> 	atOptions = { 		'key' : '4ec816f1cb94f800912ad073124075a7', 		'format' : 'iframe', 		'height' : 60, 		'width' : 468, 		'params' : {} 	}; </script> <script type="text/javascript" src="//www.highperformanceformat.com/4ec816f1cb94f800912ad073124075a7/invoke.js"></script>
+        <script type="text/javascript"> 	atOptions = { 		'key' : '4ec816f1cb94f800912ad073124075a7', 		'format' : 'iframe', 		'height' : 60, 		'width' : 468, 		'params' : {} 	}; </script> <script type="text/javascript" src="//www.highperformanceformat.com/4ec816f1cb94f800912ad073124075a7/invoke.js"></script>
+        <script type="text/javascript"> 	atOptions = { 		'key' : '4ec816f1cb94f800912ad073124075a7', 		'format' : 'iframe', 		'height' : 60, 		'width' : 468, 		'params' : {} 	}; </script> <script type="text/javascript" src="//www.highperformanceformat.com/4ec816f1cb94f800912ad073124075a7/invoke.js"></script>
+</body>
+</html>
